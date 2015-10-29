@@ -3,5 +3,6 @@
    "name": "i2cmaster",
    "author": "Godswill Lucky <luckygodswill@particle.io>",
    "license": "MIT",
+   "version": "0.0.9",
    "description": "A simple library that illustrates coding conventions of i2cmaster library"
  }
